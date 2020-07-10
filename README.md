@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :shipit:
 
 I'm a senior at TJHSST! I love robotics, python, linux, and aws!
 
