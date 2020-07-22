@@ -13,6 +13,7 @@ I'm a senior at TJHSST! I love robotics, python, linux, and aws!
   - Tensorflow
   - Ansible and Docker
   - Hugo
+  - Julia
 - 👯 I’m looking to collaborate on ...
   - Anything really. I really loved the snakeware project, and made a few widgets for it. 
 - 🤔 I’m looking for help with ...
