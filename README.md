@@ -22,3 +22,8 @@ I'm a senior at TJHSST! I love robotics, python, linux, and aws!
 - ⚡ Fun fact: ...
   - McLaren F1 is my favorite racing team, and Lando Norris is my favorite driver!
 
+Commit Counter:
+
+<a href="https://sourcerer.io/moonbeam87"><img src="https://img.shields.io/badge/Python-153%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/moonbeam87"><img src="https://img.shields.io/badge/Java-38%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/moonbeam87"><img src="https://img.shields.io/badge/HTML-33%20commits-orange.svg" alt=""></a>
