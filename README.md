@@ -8,9 +8,7 @@ https://sourcerer.io/moonbeam87
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonbeam87)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
-  - Meteor Viewer (https://github.com/moonbeam87/meteorviewer)
   - Stonks (https://github.com/stonkspython/stonks)
-  - ESN App (https://github.com/moonbeam87/ESNVisualizer)
 - 📜 My Credentials Include ...
   - AWS Certified Solutions Architect Associate
 - 🌱 I’m currently learning ...
