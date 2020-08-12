@@ -25,6 +25,10 @@ https://sourcerer.io/moonbeam87
 - ⚡ Fun fact: ...
   - McLaren F1 is my favorite racing team, and Lando Norris is my favorite driver!
 
+
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
+
 Commit Counter:
 
 <a href="https://sourcerer.io/moonbeam87"><img src="https://img.shields.io/badge/Python-153%20commits-orange.svg" alt=""></a>
