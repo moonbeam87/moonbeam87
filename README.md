@@ -22,7 +22,7 @@ https://sourcerer.io/moonbeam87
   - Online tools for FPGA Simulation? Please if anybody knows anything hit me up.
 - 📫 How to reach me: Email!
 - ⚡ Fun fact: ...
-  - McLaren F1 is my favorite racing team, and Lando Norris is my favorite driver!
+  - McLaren F1 is my favorite racing team, and Fernando Alonso is my favorite driver!
 
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
