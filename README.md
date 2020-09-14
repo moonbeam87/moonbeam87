@@ -9,7 +9,8 @@ https://sourcerer.io/moonbeam87
 - 🔭 I’m currently working on ...
   - Stonks (https://github.com/stonkspython/stonks)
 - 📜 My Credentials Include ...
-  - AWS Certified Solutions Architect Associate
+  - [SAP-C01](https://www.youracclaim.com/badges/725651aa-73be-4689-93f0-fcfedfc07133/public_url)
+  - [SAA-C02](https://www.youracclaim.com/badges/5831c369-a7e7-4626-b14c-e57f2bedb9e7/public_url)  
 - 🌱 I’m currently learning ...
   - The AWS Platform! There's always more to learn!
   - Tensorflow
