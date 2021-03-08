@@ -11,7 +11,7 @@ https://sourcerer.io/moonbeam87
   - [SAA-C02](https://www.youracclaim.com/badges/5831c369-a7e7-4626-b14c-e57f2bedb9e7/public_url)  
 - 📫 How to reach me: Email!
 - ⚡ Fun fact: ...
-  - McLaren F1 is my favorite racing team, and Fernando Alonso is my favorite driver!
+  - I love Formula 1 Racing!
 
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
