@@ -2,7 +2,7 @@
 
 I love robotics, python, linux, electronics, and aws!
 
-UIUC 25, TJHSST 21
+UIUC, TJHSST 21
 
 - 📜 My AWS Credentials Include ...
   - [SAP-C01](https://www.youracclaim.com/badges/725651aa-73be-4689-93f0-fcfedfc07133/public_url)
